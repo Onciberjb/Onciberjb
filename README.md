@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi Im Onciber 👋
 ```javascript
-const onciber = {
+const onci = {
   pronouns: "does this really matter?",
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [React, Node, Storybook],
   architecture: ["microservices", "event-driven", "design system pattern"],
+  company: ["Recoveryloid", "CNTI"],
+  language: [Español, English, 中文]
   
  challenge: "Never stop learning"
 }
