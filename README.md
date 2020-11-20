@@ -1,16 +1,18 @@
-# Hi, I'm Onciber 👋🔭🌱
+## Hi, I'm Onciber 👋🔭🌱
 ```javascript
 const onci = {
   pronouns: "does this really matter?",
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Storybook],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  company: ["Recoveryloid", "CNTI"],
+  OS: [Linux, Windows, Canaima],
+  company: [Recoveryloid, CNTI],
   language: [Español, English, 中文]
   
  challenge: "Never stop learning"
 }
 ```
+
+
 📫 How to reach me:
 -  [Instagram](https://www.instagram.com/onciberjb/)
 
