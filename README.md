@@ -1,4 +1,4 @@
-### Hi Im Onciber 👋
+# Hi, I'm Onciber 👋🔭🌱
 ```javascript
 const onci = {
   pronouns: "does this really matter?",
@@ -11,6 +11,10 @@ const onci = {
  challenge: "Never stop learning"
 }
 ```
+📫 How to reach me:
+-  [Instagram](https://www.instagram.com/onciberjb/)
+
+
 <!--
 **Onciberjb/Onciberjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
