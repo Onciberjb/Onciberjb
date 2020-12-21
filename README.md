@@ -1,7 +1,6 @@
 ## Hi, I'm Onciber 👋🔭🌱
 ```javascript
 const onci = {
-  pronouns: "does this really matter?",
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Storybook],
   OS: [Linux, Windows, Canaima],
