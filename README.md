@@ -1,4 +1,4 @@
-## Hi, I'm Onciber 👋🔭🌱
+## Hi, I'm Onciber 🌱
 ```javascript
 const onci = {
   code: [Javascript, Typescript, HTML, CSS, Python],
