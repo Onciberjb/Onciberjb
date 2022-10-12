@@ -3,7 +3,7 @@
 const onci = {
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Storybook],
-  OS: [Linux, Windows, Canaima],
+  OS: [ubuntu],
   company: [Recoveryloid, CNTI],
   language: [Español, English, 中文]
   
